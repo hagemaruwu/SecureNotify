@@ -1,0 +1,15 @@
+# Python compilation artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Mac OS specific files
+.DS_Store
+
+# Security files (Do not push private keys to GitHub!)
+*.key
+*.pem
+*.crt
+
+# Dynamically generated test graphs
+performance_results.png
